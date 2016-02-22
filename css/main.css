@@ -1,8 +1,22 @@
 html {
   box-sizing: border-box;
-  background-color: limegreen;
+  background-color: #dbd6d0;
   font-family: Bevan;
 }
 header {
-  background-color: pink;
+  background-color: #797667;
+  text-align: center;
+}
+h1 {
+  color: white;
+}
+header ul {
+  list-style-type: none;
+  font-family: Helvetica;
+  background-color: #6f3937;
+}
+
+a {
+  color: white;
+  text-decoration: none;
 }
